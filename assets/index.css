@@ -1,0 +1,223 @@
+
+/*Adaptación de computadoras*/
+@media all and (min-width: 414px) and (max-width:991px) {
+    #img1{
+        width: 380px;
+        position: relative;
+        margin-left: 30px;
+    }
+
+    #img2{ 
+        width: 290px;
+        position: relative;
+        margin-left: -10px;
+    }
+
+    #img3{
+        width: -100px;
+        position: relative;
+        margin-left: 0px;
+        
+    }
+
+
+    }
+    body {
+        background-color: blue;
+    }
+
+    header {
+        background-color: aqua;
+        text-align: center;
+        border-radius: 100px ;
+        border: 10px solid black;
+        width: 860px;
+        position: relative;
+        margin-left: 52px;
+    }
+
+    article {
+        background-color: aqua;
+        border-radius: 10px;
+        border: 10px solid black;
+        width: 500px;
+        top: 20px;
+        text-align: center;
+        text-align: 50px;
+        text-anchor: middle;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: large;
+        position: relative;
+        top: 50px;
+        margin-left: 45px;
+    }
+
+    main{
+
+        background-color: aquamarine;
+        height: 2500px;
+        border-radius: 100px ;
+        border: 10px solid black;
+        position: relative;
+        margin-top: 50px;
+        width: 910px;
+        margin-left: 30px;
+    }
+
+    #art1 {
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 50px;
+        margin-left: 45px;
+        width: 400px;
+    }
+
+    #art2 {
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-left: 485px;
+        margin-top: -640px;
+        width: 370px; ;
+        height: 622px; ;
+    }
+    #art3{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 30px;
+        width: 810px; ;
+    }
+
+    #art4{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 30px;
+        width: 810px; ;
+    }
+
+    #title {
+
+        background-color:  antiquewhite;
+        width: 810px;
+        position: relative;
+        margin-left: 45px ;
+
+    }
+
+    #title2{
+        background-color: azure;
+        width: 810px;
+        position: relative;
+        margin-left: 45px ;
+
+        margin-top: 40px;
+    }
+
+    /* Adaptación para celulares */
+@media all and (min-width:0px) and (max-width:414px) {
+
+    #img1{
+        width: 150px;
+        height: 150px;
+    }
+
+    #img2{
+        width: 200px;
+        height: 150px;
+    }
+
+    #img3{
+
+        width: 200px;
+        height: 150px;
+
+    }
+
+    #img4{
+
+        width: 200px;
+        height: 150px;
+
+    }
+
+    #img5{
+
+        width: 200px;
+        height: 150px;
+
+    }
+    
+
+    header {
+        background-color: aqua;
+        text-align: center;
+        width: 375px;
+        margin-left: 2px;
+    }
+    main{
+        background-color: aquamarine;
+        width: 375px;
+        height: 3000px;
+        position: relative;
+        margin-left: 2px;
+        border-radius: 100px ;
+        border: 5px solid black;
+
+    }
+
+    #title
+    {
+
+        background-color: antiquewhite;
+        width: 270px;
+        position: relative;
+        margin-left: 40px;
+    }
+    #title2{
+
+        background-color: antiquewhite;
+        width: 270px;
+        position: relative;
+        margin-left: 40px;
+    }
+
+    #art1{ 
+        position: relative;
+        width: 270px;
+        margin-left: 40px;
+        margin-top: 20px;
+        background-color: antiquewhite;
+        
+    }
+
+    #art2{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 20px;
+        margin-left: 40px;
+        width: 270px;
+    }
+
+    #art3{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 20px;
+        margin-left: 40px;
+        width: 270px;
+    }
+
+    #art4{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: 20px;
+        margin-left: 40px;
+        width: 270px;
+    }
+
+}
+
