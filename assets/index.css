@@ -2,9 +2,9 @@
 /*Adaptación de computadoras*/
 @media all and (min-width: 414px) and (max-width:991px) {
     #img1{
-        width: 380px;
+        width: 290px;
         position: relative;
-        margin-left: 30px;
+        margin-left: 10px;
     }
 
     #img2{ 
@@ -55,7 +55,7 @@
     main{
 
         background-color: aquamarine;
-        height: 2500px;
+        height: 3100px;
         border-radius: 100px ;
         border: 10px solid black;
         position: relative;
@@ -93,10 +93,17 @@
 
         background-color: antiquewhite;
         position: relative;
-        margin-top: 30px;
-        width: 810px; ;
+        margin-top: 530px;
+        width: 810px; 
     }
 
+    #art5{
+
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: -680px;
+        width: 810px; ;
+     }
     #title {
 
         background-color:  antiquewhite;
@@ -159,7 +166,7 @@
     main{
         background-color: aquamarine;
         width: 375px;
-        height: 3000px;
+        height: 3600px;
         position: relative;
         margin-left: 2px;
         border-radius: 100px ;
@@ -199,6 +206,7 @@
         margin-top: 20px;
         margin-left: 40px;
         width: 270px;
+        height: 500px;
     }
 
     #art3{
@@ -210,14 +218,22 @@
         width: 270px;
     }
 
+
     #art4{
 
         background-color: antiquewhite;
         position: relative;
-        margin-top: 20px;
+        margin-top: 565px;
         margin-left: 40px;
         width: 270px;
     }
 
-}
+    #art5{
 
+        background-color: antiquewhite;
+        position: relative;
+        margin-top: -920px;
+        margin-left: 40px;
+        width: 270px;
+     }
+}
